@@ -10,6 +10,7 @@ namespace HW9
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
