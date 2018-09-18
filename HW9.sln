@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW9", "HW9\HW9.csproj", "{ACAF999E-661D-4A74-B414-D6E9CB63B7D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW9Tests", "HW9Tests\HW9Tests.csproj", "{8BDE2178-F3FF-4593-830E-FFD9B50F44DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ACAF999E-661D-4A74-B414-D6E9CB63B7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACAF999E-661D-4A74-B414-D6E9CB63B7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACAF999E-661D-4A74-B414-D6E9CB63B7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDE2178-F3FF-4593-830E-FFD9B50F44DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDE2178-F3FF-4593-830E-FFD9B50F44DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDE2178-F3FF-4593-830E-FFD9B50F44DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDE2178-F3FF-4593-830E-FFD9B50F44DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
